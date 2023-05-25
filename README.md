@@ -30,6 +30,7 @@ This is configurable in ServiceHelper.Swift file in Project. We used MVVM Design
 * Add the jokes in every minutes in the list.
 * Max 10 jokes in the list.
 * The new jokes replace old ones.
+* In every 10 secods API fetch new joke, we can configure this.
 
 # Installation
 
