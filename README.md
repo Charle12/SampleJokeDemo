@@ -17,14 +17,6 @@ This is configurable in ServiceHelper.Swift file in Project. We used MVVM Design
 <img src="https://i.ibb.co/k6QRTWs/ezgif-com-gif-maker.gif" width="414" height="896" />
 
 
-# Tools And Resources Used
-
-* CocoaPods - CocoaPods is a dependency manager for Swift and Objective-C Cocoa projects. It has over 33 thousand libraries and is used in over 2.2 million apps. CocoaPods can help you scale your projects elegantly.
-* fastlane - The easiest way to automate building and releasing your iOS and Android apps.
-* SonarQube - SonarQube provides the capability to not only show health of an application but also to highlight issues newly introduced. With a Quality Gate in place, you can fix the leak and therefore improve code quality systematically.
-* SwiftLint - A tool to enforce Swift style and conventions.
-* Sonar-swift - This is an open source initiative for Apple Swift language support in SonarQube.
-
 # TODO
 
 * Add the jokes in every minutes in the list.
